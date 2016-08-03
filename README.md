@@ -2,6 +2,8 @@
 
 Bring [Laravel][laravel]'s [Blade Templates][blade] to [Kirby CMS][getkirby].
 
+This component is in alpha stage.
+
 **See [this pre-packaged Kirby plugin][blade-plugin] for a quick drop-in plugin solution.**
 
 This library extends Kirby's native `Kirby\Component\Template` class with one that supports Blade Templates. Use this in your own composer-based project, or use [my packaged Kirby plugin][blade-plugin].

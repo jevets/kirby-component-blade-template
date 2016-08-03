@@ -1,6 +1,5 @@
 {
     "name": "jevets/kirby-component-blade-template",
-    "type": "library",
     "description": "Use Laravel's Blade templates in Kirby CMS",
     "version": "0.0.1",
     "homepage": "https://github.com/jevets/kirby-component-blade-template",
