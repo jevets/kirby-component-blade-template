@@ -1,0 +1,22 @@
+{
+    "name": "jevets/kirby-component-blade-template",
+    "type": "library",
+    "description": "Use Laravel's Blade templates in Kirby CMS",
+    "version": "0.0.1",
+    "homepage": "https://github.com/jevets/kirby-component-blade-template",
+    "authors": [
+        {
+            "name": "Steve Jamesson",
+            "email": "steve@evendev.com"
+        }
+    ],
+    "require": {
+        "php": ">= 5.4.0",
+        "philo/laravel-blade": "^3.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jevets\\": "src/"
+        }
+    }
+}
