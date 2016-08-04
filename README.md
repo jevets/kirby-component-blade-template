@@ -1,3 +1,5 @@
+# This component is not working quite yet, but it should be soon.
+
 ## Blade Template for Kirby CMS
 
 Bring [Laravel][laravel]'s [Blade Templates][blade] to [Kirby CMS][getkirby].
